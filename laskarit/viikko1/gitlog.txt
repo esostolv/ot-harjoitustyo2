@@ -1,3 +1,5 @@
+Laitetaan tänne vielä vähän tarinaa alkuun..
+
 commit 0b332ecbbb7db18e16c785c297887fa57eef10af
 Author: oskarito <oskari.tolvanen@helsinki.fi>
 Date:   Sun Mar 21 23:00:33 2021 +0200
