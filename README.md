@@ -1,4 +1,6 @@
-# OT-harjoitustyön tehtävät <h1> tag
-## Viikko 1 <h2> tag
+# OT-harjoitustyön tehtävät <h1> 
+## Viikko 1 <h2> 
 
-Laitetaan tänne hieman sekaan tekstiä **myös lihavoituna** ja *kursivoituna*
+[gitlog.txt](https://github.com/esostolv/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[gitlog.txt](https://github.com/esostolv/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+
